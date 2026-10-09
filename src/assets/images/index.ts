@@ -1,0 +1,13 @@
+export {default as ArrowMoreIcon} from './icons/ArrowMoreIcon';
+export {default as ClockCircleIcon} from './icons/ClockCircleIcon';
+export {default as CloseIcon} from './icons/CloseIcon';
+export {default as DownLoadIcon} from './icons/DownLoadIcon';
+export {default as EyeIcon} from './icons/EyeIcon';
+export {default as FavorisIcon} from './icons/FavorisIcon';
+export {default as FolderIcon} from './icons/FolderIcon';
+export {default as HomeIcon} from './icons/HomeIcon';
+export {default as KiosqueIcon} from './icons/KiosqueIcon';
+export {default as LockYellowIcon} from './icons/LockYellowIcon';
+export {default as ProfileIcon} from './icons/ProfileIcon';
+export {default as PolitisBestOf} from './Logo/PolitisBestOf';
+export {default as PolitisLogo} from './Logo/PolitisLogo';
